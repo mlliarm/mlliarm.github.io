@@ -8,14 +8,14 @@ In this webpage you'll find my portfolio, my CV, and my current interests.
 
 # Portfolio
 
-1. [MSc coursework](msc-coursework.md)
-2. [Freelancing](freelancing.md)
-3. [Other](other.md)
+1. [MSc coursework](port/msc-coursework.md)
+2. [Freelancing](port/freelancing.md)
+3. [Other](port/other.md)
 
 # CV
 
-1. [English](milia-cv-en.pdf)
-2. [Greek](milia-cv-el.pdf)
+1. [English](cvs/milia-cv-en.pdf)
+2. [Greek](cvs/milia-cv-el.pdf)
 
 # Interests
 
