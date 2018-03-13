@@ -19,7 +19,7 @@ In this webpage you'll find my portfolio, my CV, and my current interests.
 
 ## Contact
 
-<a href="mailto: mlliarm@yandex.com"><img src="./img/mail2.png" alt="mail_icon" width="42" height="42"></a>
+- Email: [mlliarm](mailto:mlliarm@yandex.com)
 - Github: [mlliarm](https://github.com/mlliarm)
 - Twitter: [@mlliarm](https://twitter.com/mlliarm)
 - LinkedIn: [mlliarm](https://www.linkedin.com/in/mlliarm/)
