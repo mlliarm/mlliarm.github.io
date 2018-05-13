@@ -2,18 +2,13 @@ Hello ! I'm an alumni (BSc) from the Physics department of the University of Cre
 
 # What
 
-In this website you'll find my portfolio, my CV, and my current interests.
+In this website you'll find my portfolio and my current interests.
 
 # Portfolio
 
 1. [MSc coursework](port/msc-coursework.md)
 2. [Freelancing](port/freelancing.md)
 3. [Other](port/other.md)
-
-# CV
-
-1. [English](cvs/milia-cv-en.pdf)
-2. [Greek](cvs/milia-cv-el.pdf)
 
 # Interests
 
