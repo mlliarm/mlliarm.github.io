@@ -12,6 +12,11 @@ In this website you'll find my portfolio and my current interests.
 
 # Interests
 
+- Machine learning (OpenCV, scikit-learn, Weka, JCLAL)
+- Numerical & interval analysis
+- Programming with Mathematica
+- SWI Prolog & logical programming
+
 ## Contact
 
 - [Email](mailto:mlliarm@yandex.com)
