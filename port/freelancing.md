@@ -9,5 +9,5 @@ to be a function of six variables (s, a, R, n, m, T), we used a bisection method
 
 ## End of the World Population
 
-In this project we were asked to plot various data on Mathematica that show the projection of the world population in the many years to come. See the project [here](https://bitbucket.org/bit_from_it/theendoftheworldpop/)
+In this project we were asked to plot various data on Mathematica that show the projection of the world population in the many years to come. See the project [here](https://bitbucket.org/bit_from_it/theendoftheworldpop/).
 
