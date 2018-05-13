@@ -2,7 +2,7 @@ Hello ! I'm an alumni (BSc) from the Physics department of the University of Cre
 
 # What
 
-In this webpage you'll find my portfolio, my CV, and my current interests.
+In this website you'll find my portfolio, my CV, and my current interests.
 
 # Portfolio
 
