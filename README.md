@@ -8,7 +8,8 @@ In this website you'll find my portfolio and my current interests.
 
 1. [MSc coursework](port/msc-coursework.md)
 2. [Freelancing](port/freelancing.md)
-3. [Other](port/other.md)
+3. A Data Science Portfolio
+4. [Other](port/other.md)
 
 # Interests
 
