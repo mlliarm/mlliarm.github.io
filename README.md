@@ -1,6 +1,12 @@
 # About
 
-Hello ! I'm an alumni (BSc) from the Physics department of the University of Crete. I also hold a MSc from the Mathematics department of the University of Patras, in Computational Mathematics and Computational Intelligence. My MSc thesis was on Active Learning with JCLAL.
+## Scientific programmer - Analyst
+
+Independent professional in computational science. I use Python (Numpy, SciPy, Matplotlib), Mathematica and C/C++11 for simulations and scientific calculations solving mathematical problems of a wide range, from differential equations to optimization.
+
+I'm also interested in data analytics and the application of mathematical methods in the fields of machine learning, statistics and optimization using Python and R.
+
+Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics. My MSc thesis was on Active machine learning using JCLAL and Weka.
 
 # What
 
@@ -15,7 +21,7 @@ In this website you'll find my portfolio and my current interests.
 
 # Interests
 
-- Machine learning (OpenCV, scikit-learn, Weka, JCLAL)
+- Machine learning (OpenCV, scikit-learn, Weka, JCLAL, R)
 - Numerical & interval analysis
 - Programming with Mathematica
 - SWI Prolog & logical programming
