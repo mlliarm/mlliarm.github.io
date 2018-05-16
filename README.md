@@ -24,7 +24,6 @@ In this website you'll find my portfolio and my current interests.
 - Machine learning (OpenCV, scikit-learn, Weka, JCLAL)
 - Numerical & Interval analysis
 - Scheme & functional programming
-- Programming with Mathematica
 
 ## Contact
 
