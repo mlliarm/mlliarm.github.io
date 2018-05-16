@@ -6,7 +6,7 @@ Independent professional in computational science. I use Python (Numpy, SciPy, M
 
 I'm also interested in data analytics and the application of mathematical methods in the fields of machine learning, statistics and optimization using Python and R.
 
-Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics. My MSc thesis was on Active machine learning using JCLAL and Weka.
+Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics from the University of Crete. My MSc thesis was on Active machine learning using JCLAL and Weka.
 
 # What
 
