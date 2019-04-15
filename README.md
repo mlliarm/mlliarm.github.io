@@ -21,7 +21,8 @@ In this website you'll find my portfolio and my current interests.
 
 - Machine learning (scikit-learn, Weka, JCLAL)
 - Numerical & Interval analysis
-- Scheme & functional programming
+- Graph theory
+- Computational geometry
 
 ## Contact
 
