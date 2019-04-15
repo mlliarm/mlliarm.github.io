@@ -24,4 +24,4 @@ In thir project me and my collaborator translated and presented an important pap
 
 ## Intervalica
 
-An Interval Analysis library in Mathematica. Under development. See the project here.
+An Interval Analysis library in Mathematica. Under development.

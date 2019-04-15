@@ -1,10 +1,8 @@
 # About
 
-## Scientific programmer - Analyst
+## Junior Software Developer @ InSyBio
 
-Independent professional in computational science. I use Python (Numpy, SciPy, Matplotlib), Mathematica and C/C++11 for simulations and scientific calculations solving mathematical problems of a wide range, from differential equations to optimization.
-
-I'm also interested in data analytics and the application of mathematical methods in the fields of machine learning, statistics and optimization using Python and R.
+Scientific programmer, using python, R, NumPy, SciPy, Pandas, Scikit-learn, matplotlib, ggplot2 for machine learning, data preprocessing, visualization and analysis. The problems we're being called to tackle at InSyBio include problems of classification and regression for biomedical data in the realm of big data using supervised & unsupervised machine learning algorithms.
 
 Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics from the University of Crete. My MSc thesis was on Active machine learning using JCLAL and Weka.
 
