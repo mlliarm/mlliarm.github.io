@@ -1,6 +1,6 @@
 # About
 
-## Junior Software Developer @ [InSyBio](www.insybio.com)
+## Junior Software Developer @ [InSyBio](https://www.insybio.com)
 
 Scientific programmer, using python, R, numpy, scipy, pandas, scikit-learn, matplotlib, ggplot2 for machine learning, data preprocessing, visualization and analysis. The problems we're being called to tackle at InSyBio include problems of classification and regression for biomedical data in the realm of big data using supervised & unsupervised machine learning algorithms.
 
