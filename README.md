@@ -23,6 +23,7 @@ In this website you'll find my portfolio and my current interests.
 - Bioinformatics
 - Numerical & Interval analysis
 - Graph theory
+- Computational geometry
 
 ## Contact
 
