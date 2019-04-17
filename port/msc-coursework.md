@@ -24,4 +24,4 @@ In this project me and my collaborator translated and presented an important pap
 
 ## Intervalica
 
-An Interval Analysis library in Mathematica. A basic library for Interval Analysis, by extending the interval capabilities provided by Mathematica. The library is still under development, and what is left is to implement the Interval Newton method and the methods presented in Ratz's paper.
+An Interval Analysis library in Mathematica. A basic library for Interval Analysis, by extending the interval capabilities provided by Mathematica. It already contains the Interval Bisection method.  What is left is to implement the Interval Newton method and the methods presented in Ratz's paper. Under continuous development.
