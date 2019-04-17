@@ -1,4 +1,4 @@
-# Other
+# Other projects
 
 ## Fractals
 This is a simple showcase of how one can use R markdown documents with knitr.
