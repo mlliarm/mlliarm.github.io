@@ -1,8 +1,8 @@
 # About
 
-## Junior Software Developer @ [InSyBio](https://www.insybio.com)
+## Junior Software Developer
 
-Scientific programmer, using python, R, numpy, scipy, pandas, scikit-learn, matplotlib, ggplot2 for machine learning, data preprocessing, visualization and analysis. The problems we're being called to tackle at InSyBio include problems of classification and regression for biomedical data in the realm of big data using supervised & unsupervised machine learning algorithms.
+Scientific programmer, using python, R, numpy, scipy, pandas, scikit-learn, matplotlib, ggplot2 for machine learning, data preprocessing, visualization and analysis. 
 
 Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics from the University of Crete. My MSc thesis was on Active machine learning using JCLAL and Weka along with python to set up the experiment XML files.
 
@@ -19,7 +19,6 @@ In this website you'll find my portfolio and my current interests.
 # Interests
 
 - Machine learning (scikit-learn, Weka, JCLAL)
-- Bioinformatics
 - Numerical & Interval analysis
 - Graph theory & Network science
 
