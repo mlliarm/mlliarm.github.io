@@ -1,10 +1,12 @@
-# About
+# Michail L. Liarmakopoulos
 
-## Junior Software Developer
+## Junior Software Developer, MSc
 
-Scientific programmer, using python, R, numpy, scipy, pandas, scikit-learn, matplotlib, ggplot2 for machine learning, data preprocessing, visualization and analysis. 
+A physics graduate (BSc) with postgraduate in Computational Mathematics and A.I. (MSc). My MSc thesis was on Active Machine learning, using JCLAL library and python3.
 
-Finally, I'm holding a MSc in Computational Mathematics and Computational Intelligence from the Mathematics department of the University of Patras and a BSc in Physics from the University of Crete. My MSc thesis was on Active machine learning using JCLAL and Weka along with python to set up the experiment XML files.
+Having four years experience as a part-time freelance scientific programmer - analyst, using technologies as Mathematica, python, C++ for solving engineering and mathematical problems, and LaTeX for documenting. One and a half year industrial experience as a scientific python programmer, using NumPy, SciPy, Pandas and Scikit-learn for machine learning, data preprocessing and analysis in the bioinformatics sector in leading bioinformatics startup.
+
+Interested in software development and data science.
 
 # What
 
