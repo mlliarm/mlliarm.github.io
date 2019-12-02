@@ -24,6 +24,7 @@ In this website you'll find my portfolio and my current interests.
 - Numerical & Interval analysis
 - Graph theory & Network science
 - Chaotic PRNGs
+- Logical and declarative programming 
 
 # Contact
 
