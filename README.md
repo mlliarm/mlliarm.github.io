@@ -24,7 +24,8 @@ In this website you'll find my portfolio and my current interests.
 - Numerical & Interval analysis
 - Graph theory & Network science
 - Chaotic PRNGs
-## Contact
+
+# Contact
 
 - [Email](mailto:mlliarm@yandex.com)
 - [Github](https://github.com/mlliarm)
