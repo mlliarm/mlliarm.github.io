@@ -1,6 +1,6 @@
 # Other projects
 
-## particleslogic
+## Particleslogic
 The main idea is that it's a Prolog application with which you can find out if a given interaction between N and M particles, or if a decay of a particle to N particles is possible.
 
 The converse should also be possible, given N input particles to get all the resulting possible output particles, but this function doesn't work well right now.
