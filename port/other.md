@@ -23,4 +23,4 @@ The converse should also be possible, given N input particles to get all the res
 
 The mechanics behind it are the so called conservation laws of Physics. They are rules of conserved quantities, i.e. quantities that are being conserved during every elementary interaction. So, I've coded these laws as rules, and if all of them hold true, then an interaction is possible.
 
-(Here)[https://github.com/mlliarm/particleslogic] is the repository.
+[]Here](https://github.com/mlliarm/particleslogic) is the repository.
