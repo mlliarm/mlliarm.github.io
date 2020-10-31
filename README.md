@@ -1,6 +1,6 @@
 # Michail L. Liarmakopoulos
 
-## Junior Software Developer, MSc
+## Software Developer, MSc
 
 A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was on Active Machine learning, using JCLAL library and python3.
 
@@ -8,6 +8,7 @@ Having four years experience as a part-time freelance scientific programmer - an
 
 Interested in software development and data science.
 
+Currently a Technical Support Representative for GCP in Webhelp, in the fields of Big Data and Machine Learning. Providing technical support for GCP in these fields.
 # What
 
 In this website you'll find my portfolio and my current interests.
