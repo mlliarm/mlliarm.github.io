@@ -6,7 +6,7 @@ A physics graduate (BSc) with postgraduate studies in Computational Mathematics 
 
 Having four years experience as a part-time freelance scientific programmer - analyst, using technologies as Mathematica, python, C++ for solving engineering and mathematical problems, and LaTeX for documenting. One and a half year industrial experience as a scientific python programmer, using NumPy, SciPy, Pandas and Scikit-learn for machine learning, data preprocessing and analysis in the bioinformatics sector in leading bioinformatics startup.
 
-Currently a Technical Support Representative for GCP in Webhelp, in the fields of Big Data and Machine Learning.
+Currently a Technical Support Representative for Google Cloud Platform in Webhelp, in the fields of Big Data and Machine Learning.
 
 Interested in software development and data science.
 
