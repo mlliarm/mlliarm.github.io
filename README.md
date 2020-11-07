@@ -1,6 +1,6 @@
-# Michail L. Liarmakopoulos
+# Michail L. Liarmakopoulos, MSc
 
-## TSR Big Data/ML, GCP | Software Developer, MSc
+## TSR Big Data/ML, GCP | Software Developer
 
 A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was on Active Machine learning, using JCLAL library and python3.
 
