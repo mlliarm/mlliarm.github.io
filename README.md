@@ -1,14 +1,15 @@
 # Michail L. Liarmakopoulos
 
-## Software Developer, MSc
+## TSR GCP Big Data/ML | Software Developer, MSc
 
 A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was on Active Machine learning, using JCLAL library and python3.
 
 Having four years experience as a part-time freelance scientific programmer - analyst, using technologies as Mathematica, python, C++ for solving engineering and mathematical problems, and LaTeX for documenting. One and a half year industrial experience as a scientific python programmer, using NumPy, SciPy, Pandas and Scikit-learn for machine learning, data preprocessing and analysis in the bioinformatics sector in leading bioinformatics startup.
 
+Currently a Technical Support Representative for GCP in Webhelp, in the fields of Big Data and Machine Learning.
+
 Interested in software development and data science.
 
-Currently a Technical Support Representative for GCP in Webhelp, in the fields of Big Data and Machine Learning. Providing technical support for GCP in these fields.
 # What
 
 In this website you'll find my portfolio and my current interests.
