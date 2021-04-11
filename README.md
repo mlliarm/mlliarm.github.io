@@ -30,7 +30,4 @@ In this website you'll find my portfolio and my current interests.
 
 # Contact
 
-- [Email](mailto:mlliarm@yandex.com)
-- [Github](https://github.com/mlliarm)
-- [Twitter](https://twitter.com/mlliarm)
 - [LinkedIn](https://www.linkedin.com/in/mlliarm/)
