@@ -1,4 +1,4 @@
-# Other projects
+# Projects
 
 ## APL ∊ BCN
 - On 2021-11-30 I've initiated the first APLjk community in Spain based in Barcelona as a [meetup](https://meetup.com/apl-bcn) on meetup.com.
