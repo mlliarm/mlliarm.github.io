@@ -29,7 +29,7 @@ In this website you'll find my portfolio and my current interests.
 - Chaotic PRNGs
 - Logic, declarative and functional programming
 - APL, J and array programming
-- Reading papers and books on logic and computation theory
+- Reading papers and books on logic, computation theory and formal verification methods
 
 # Contact
 
