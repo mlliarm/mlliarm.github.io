@@ -22,11 +22,14 @@ In this website you'll find my portfolio and my current interests.
 
 # Interests
 
+- [Community building](https://mlliarm.github.io/apl-in-bcn/)
 - Machine learning (scikit-learn, Weka, JCLAL)
 - Numerical & Interval analysis
 - Graph theory & Network science
 - Chaotic PRNGs
-- Logical and declarative programming 
+- Logic, declarative and functional programming
+- APL, J and array programming
+- Reading papers and books on logic and computation theory
 
 # Contact
 

@@ -1,5 +1,9 @@
 # Other projects
 
+## APL ∊ BCN
+- On 2021-11-30 I've initiated the first APLjk community in Spain based in Barcelona as a meetup on [meetup.com](meetup.com).
+- For more information see [here](https://mlliarm.github.io/apl-in-bcn/) the website of the meetup and [here](https://aplwiki.com/index.php?title=APL_%E2%88%8A_BCN) some more information from the [aplwiki.com](aplwiki.com) page.
+
 ## Particleslogic
 The main idea is that it's a Prolog application with which you can find out if a given interaction between N and M particles, or if a decay of a particle to N particles is possible.
 
@@ -24,5 +28,9 @@ In this study I had extracted the nodes and edges from an actual map of Crete an
 Then I calculated some centrality measures for the network and draw conclusions about which node was the most central one.
 In the meantime [here](https://drive.google.com/open?id=1-0MZ0eLm6VY-yCHNozEClaTcBg8eHuXb) you can find the first version
 (pdf in Greek) and [here](https://drive.google.com/open?id=163SC4eRrVJJEtJ0DVY8Rv2KEl4rheRnR) the presentation (pdf) given to my peers. It will be soon translated into english, since this is (or was) an original work, never done before for the road network of Crete (that time).
+
+## Various interesting gists
+- Mostly related with scientific computing.
+- See [here](https://gist.github.com/mlliarm) my gist list.
 
 
