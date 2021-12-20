@@ -16,9 +16,9 @@ In this website you'll find my portfolio and my current interests.
 
 # Portfolio
 
-1. [MSc coursework](port/msc-coursework.md)
-2. [Freelancing](port/freelancing.md)
-3. [Other projects](port/other.md)
+1. [Projects](port/other.md)
+2. [MSc coursework](port/msc-coursework.md)
+3. [Freelancing](port/freelancing.md)
 
 # Interests
 
