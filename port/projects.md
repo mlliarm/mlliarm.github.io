@@ -36,6 +36,6 @@ You can find the project [here](https://github.com/mlliarm/protoselida).
 
 ## Various interesting gists
 - Mostly related with scientific computing.
-- See [here](https://gist.github.com/mlliarm) my gist list.
+- [Here](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983).
 
 
