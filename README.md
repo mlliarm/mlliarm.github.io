@@ -21,16 +21,20 @@ In this website you'll find my portfolio and my current interests.
 3. [Freelancing](port/freelancing.md)
 
 # Interests
+1. Numerical & Interval analysis
+2. Graph theory & Network science
+3. Chaotic PRNGs
+4. Mathematical logic
+5. Symbolic computing
 
-- [Community building](https://mlliarm.github.io/apl-in-bcn/)
-- Machine learning (scikit-learn, Weka, JCLAL)
-- Numerical & Interval analysis
-- Graph theory & Network science
-- Chaotic PRNGs
-- Logic, declarative and functional programming
-- APL, J and array programming
-- Reading papers and books on logic, computation theory and formal verification methods
+1. Logic programming
+2. Functional programming
+3. Array programming
+
+1. Reading papers and books in the above topics.
+2. Presenting the above in various [communities](https://mlliarm.github.io/apl-in-bcn/).
 
 # Contact
 
 - [LinkedIn](https://www.linkedin.com/in/mlliarm/)
+- `mlliarm AT yandex DOT com`
