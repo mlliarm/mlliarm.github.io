@@ -21,15 +21,15 @@ In this website you'll find my portfolio and my current interests.
 3. [Freelancing](port/freelancing.md)
 
 # Interests
+- Logic programming
+- Functional programming
+- Array programming
+
 - Numerical & Interval analysis
 - Graph theory & Network science
 - Chaotic PRNGs
 - Mathematical logic
 - Symbolic computing
-
-- Logic programming
-- Functional programming
-- Array programming
 
 - Reading papers and books in the above topics.
 - Writing [posts](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983).
