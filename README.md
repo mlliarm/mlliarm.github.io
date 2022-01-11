@@ -1,26 +1,31 @@
 # Michail L. Liarmakopoulos, MSc
 
+# Who
+
 ## Data Engineer @ Webhelp ES
 
-A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was on Active Machine learning, using JCLAL library and python3.
+- A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3. I hate it.
 
-Having four years experience as a part-time freelance scientific programmer - analyst, using technologies as Mathematica, python, C++ for solving engineering and mathematical problems, and LaTeX for documenting. One and a half year industrial experience as a scientific python programmer, using NumPy, SciPy, Pandas and Scikit-learn for machine learning, data preprocessing and analysis in the bioinformatics sector in leading bioinformatics startup.
+- I think that modern ML is just glorified stastistics applied on modern computer hardware.
 
-Currently a working as a Data Engineer at Webhelp ES, supporting Google Cloud Platform customers. 
-
-Interested in software development and data science. In other words: data engineering.
+- The theory ([eg1.](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg2.](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg3](https://en.wikipedia.org/wiki/Statistical_learning_theory)) though is pretty nice, even if nobody seems to give a damn about it nowdays.
 
 # What
 
-In this website you'll find my portfolio and my current interests.
+- In this website you'll find my portfolio, my interests and how to get in touch.
 
-# Portfolio
+## Portfolio
 
-1. [Projects](port/projects.md)
-2. [MSc coursework](port/msc-coursework.md)
-3. [Freelancing](port/freelancing.md)
+- [Projects](port/projects.md)
+- [MSc coursework](port/msc-coursework.md)
+- [Freelancing](port/freelancing.md)
 
-# Interests
+## Interests
+
+### TLDR: Interested in `a|maths>` + `b|code>` + `c|data>`.
+
+---
+### NLDR
 - Logic programming
 - Functional programming
 - Array programming
@@ -35,7 +40,7 @@ In this website you'll find my portfolio and my current interests.
 - Writing [posts](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983).
 - Presenting stuff I like to tech communities ([eg.](https://mlliarm.github.io/apl-in-bcn/)).
 
-# Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/mlliarm/)
 - `mlliarm ΑΤ yandex DΟΤ com`
