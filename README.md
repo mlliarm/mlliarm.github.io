@@ -4,7 +4,7 @@
 
 ## Data Engineer @ Webhelp ES
 
-- A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3. I hate it.
+- A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
 - I think that modern ML is just glorified stastistics applied on modern computer hardware.
 
