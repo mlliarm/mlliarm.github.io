@@ -12,7 +12,7 @@
 
 # What
 
-- In this website you'll find my [portfolio](https://github.com/mlliarm/mlliarm.github.io#portfolio), my [interests](https://github.com/mlliarm/mlliarm.github.io#interests) and how to [get in touch](https://github.com/mlliarm/mlliarm.github.io#contact).
+- In this website you'll find my `portfolio`, my `interests` and how to `get in touch`.
 
 ## Portfolio
 
