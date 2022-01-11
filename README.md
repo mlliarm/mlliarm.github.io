@@ -25,7 +25,6 @@
 ### TLDR
 - Interested in `a|maths>` + `b|code>` + `c|data>`.
 
----
 ### NLDR
 - Logic programming
 - Functional programming
