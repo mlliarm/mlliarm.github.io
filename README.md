@@ -42,7 +42,7 @@
 
 ## Contact
 
-- [In](https://www.linkedin.com/in/mlliarm/)
+- [in](https://www.linkedin.com/in/mlliarm/)
 - `mlliarm ΑΤ yandex DΟΤ com`
 
 ---
