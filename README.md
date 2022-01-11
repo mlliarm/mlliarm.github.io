@@ -37,7 +37,7 @@
 - Symbolic computing
 
 - [Reading](https://www.goodreads.com/mlliarm) papers and books in the above topics.
-- [Writing]((https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
+- [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
 - [Presenting](https://mlliarm.github.io/apl-in-bcn/) stuff I like to tech communities.
 
 ## Contact
