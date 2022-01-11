@@ -4,7 +4,7 @@
 
 ## Data Engineer @ Webhelp ES
 
-- A physics graduate (BSc) with postgraduate studies in Computational Mathematics and A.I. (MSc). My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
+- A maths (MSc) and physics (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
 - I think that modern ML is just glorified stastistics applied on modern computer hardware.
 
@@ -36,9 +36,9 @@
 - Mathematical logic
 - Symbolic computing
 
-- Reading papers and books in the above topics.
-- Writing [posts](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983).
-- Presenting stuff I like to tech communities ([eg.](https://mlliarm.github.io/apl-in-bcn/)).
+- [Reading](https://www.goodreads.com/mlliarm) papers and books in the above topics.
+- [Writing]((https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
+- [Presenting](https://mlliarm.github.io/apl-in-bcn/)) stuff I like to tech communities.
 
 ## Contact
 
