@@ -8,7 +8,7 @@
 
 - I think that modern ML is just glorified stastistics applied on modern computer hardware.
 
-- The theory ([eg1.](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg2.](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg3](https://en.wikipedia.org/wiki/Statistical_learning_theory)) although it's pretty nice, nobody seems to give a damn about it nowdays.
+- The theory ([eg](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg'](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg''](https://en.wikipedia.org/wiki/Statistical_learning_theory)) although it's pretty nice, nobody seems to give a damn about it nowdays.
 
 # What
 
