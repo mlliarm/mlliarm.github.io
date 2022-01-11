@@ -22,7 +22,8 @@
 
 ## Interests
 
-### TLDR: Interested in `a|maths>` + `b|code>` + `c|data>`.
+### TLDR
+- Interested in `a|maths>` + `b|code>` + `c|data>`.
 
 ---
 ### NLDR
