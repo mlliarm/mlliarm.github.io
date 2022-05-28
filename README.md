@@ -43,7 +43,5 @@
 ## Contact
 
 - [in](https://www.linkedin.com/in/mlliarm/)
-- `mlliarm ΑΤ yandex DΟΤ com`
+- *liarmakopoulosm** ΑΤ *acm* DΟΤ *com*
 
----
-[?](https://github.com/mlliarm/mlliarm.github.io)
