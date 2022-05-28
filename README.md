@@ -43,5 +43,5 @@
 ## Contact
 
 - [in](https://www.linkedin.com/in/mlliarm/)
-- *liarmakopoulosm** ΑΤ *acm* DΟΤ *com*
+- *liarmakopoulosm* ΑΤ *acm* DΟΤ *com*
 
