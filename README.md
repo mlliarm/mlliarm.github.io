@@ -2,7 +2,7 @@
 
 # Who
 
-## Data Engineer @ Webhelp ES
+## Data Engineer
 
 - A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
