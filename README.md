@@ -21,7 +21,7 @@
 ## Interests
 
 ### TLDR
-- Interested in `a|maths>` + `b|code>` + `c|data>`.
+- Interested in `a|math>` + `b|code>` + `c|data>`.
 
 ### NLDR
 - Logic programming
