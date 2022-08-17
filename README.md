@@ -1,9 +1,8 @@
 # Michail L. Liarmakopoulos, MSc
-## Data Engineer
 
 # Who
 
-- A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
+- A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3. A data engineer working at Webhelp ES.
 
 - I think that modern ML is just glorified stastistics applied on modern computer hardware.
 
