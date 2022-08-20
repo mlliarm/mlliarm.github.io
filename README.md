@@ -8,6 +8,12 @@
 
 - The theory ([eg](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg'](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg''](https://en.wikipedia.org/wiki/Statistical_learning_theory)) although it's pretty nice, nobody seems to give a damn about it nowadays.
 
+- Even if I find science great as a hobby, I prefer earning my living as an engineer because you can see your end product's impact within  your lifespan (good luck seeing an application of your math theorem within your lifetime). Also engineering is also an art (τέχνη, τεχνική), whereas science is the hunt of knowledge for the sake of knowledge.
+
+- After working 2.5 years as a GCP Data Solutions Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. I think every Data Engineer should know how to create an API (REST, gRPC) for their backend data infrastructure.
+
+- If I'd have to name one of my greatest influences it'd be Archimedes (Αρχιμήδης).
+
 # What
 
 - In this website you'll find my `portfolio`, my `interests` and how to `get in touch`.
