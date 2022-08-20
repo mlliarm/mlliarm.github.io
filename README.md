@@ -21,7 +21,7 @@
 ## Interests
 
 ### TLDR
-- Interested in `a|math>` + `b|code>` + `c|data>`.
+- `|Interests>` =  `a*|math>` + `b*|code>` + `c*|data>`.
 
 ### NLDR
 - Logic programming
