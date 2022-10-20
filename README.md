@@ -10,7 +10,7 @@
 
 - After working 2.5 years as a GCP Data Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. I think every Data Engineer should know how to create an API (REST, gRPC) for their backend data infrastructure.
 
-- If I'd have to name one of my greatest influences it'd be Archimedes (Αρχιμήδης).
+- Inspired by Archimedes (Αρχιμήδης). Engineer during the day but a true mathematician at heart.
 
 # What
 
