@@ -45,4 +45,4 @@
 ## Contact
 - [in](https://www.linkedin.com/in/mlliarm/)
 - *liarmakopoulosm* ΑΤ *acm* DΟΤ *org*
-- <a rel="me noopener" href="<a rel="me" href="https://mathstodon.xyz/@mlliarm">Mastodon</a>" target="_blank">@mlliarm on Mastodon</a>
+- <a href="https://mathstodon.xyz/@mlliarm" rel="me">Mathstodon</a>
