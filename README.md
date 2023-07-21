@@ -4,13 +4,9 @@
 
 - A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
-- I think that modern ML is just glorified stastistics applied on modern computer hardware.
+- After working 2.5 years as a GCP Data Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. Every Cloud Engineer/SWE should know how to create an API (REST, gRPC) for their backend data infrastructure and how the modern networking infrastructures work.
 
-- The theory ([eg](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg'](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg''](https://en.wikipedia.org/wiki/Statistical_learning_theory)) although it's pretty nice, nobody seems to give a damn about it nowadays.
-
-- After working 2.5 years as a GCP Data Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. I think every Cloud Engineer should know how to create an API (REST, gRPC) for their backend data infrastructure.
-
-- Inspired by Archimedes (Αρχιμήδης). Engineer during the day but a mathematician at heart.
+- Inspired by Archimedes (Αρχιμήδης). Engineer by day but a mathematician at heart. Mathematics teach one how to pose the right questions. And this is a great skill for any engineer.
 
 # What
 
@@ -25,7 +21,7 @@
 ## Interests
 
 ### TLDR
-- `|Interests>` =  `a*|math>` + `b*|code>` + `c*|data>`.
+- `|Interests>` =  `a*|math>` + `b*|code>` + `c*|compute>`.
 
 ### NLDR
 - Logic programming
@@ -34,9 +30,11 @@
 
 - Numerical & Interval analysis
 - Graph theory & Network science
-- Chaotic PRNGs
 - Mathematical logic
-- Symbolic computing
+
+- Distributed, parallel & concurrent computing
+- Golang
+- API development, k8s
 
 - [Reading](https://www.goodreads.com/mlliarm) papers and books in the above topics.
 - [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
