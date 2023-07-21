@@ -1,4 +1,4 @@
-# Mi. Lia. - Data Eng.
+# Mi. Lia. - Cloud Eng.
 
 # Who
 
@@ -8,7 +8,7 @@
 
 - The theory ([eg](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension), [eg'](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning), [eg''](https://en.wikipedia.org/wiki/Statistical_learning_theory)) although it's pretty nice, nobody seems to give a damn about it nowadays.
 
-- After working 2.5 years as a GCP Data Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. I think every Data Engineer should know how to create an API (REST, gRPC) for their backend data infrastructure.
+- After working 2.5 years as a GCP Data Engineer at Webhelp ES, now I'm working as an Apigee Solutions Engineer in the same company. I think every Cloud Engineer should know how to create an API (REST, gRPC) for their backend data infrastructure.
 
 - Inspired by Archimedes (Αρχιμήδης). Engineer during the day but a mathematician at heart.
 
