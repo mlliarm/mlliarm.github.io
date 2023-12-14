@@ -6,8 +6,6 @@
 
 - I started out in the data field working as a python backend & ML engineer at a bioinformatics startup for 1.5 years. Later, I've worked 3.5 years as a GCP Data Engineer and Apigee Solutions Engineer at Webhelp ES, and now I'm working as a DevOps Cloud Engineer at  Schwarz IT Barcelona with technologies such as Kubernetes, Virtualization, golang and python.
 
-- It's clear now that data and ops are becoming increasingly close, so a modern data engineer shouldn't be afraid touching a container or a k8s cluster, or interacting with an API with python or golang.
-
 - Inspired by Archimedes (Αρχιμήδης). Engineer by day but a mathematician at heart. Mathematics teach one how to pose the right questions. And this is a great skill for any engineer.
 
 # What
@@ -20,23 +18,7 @@
 - [MSc coursework](port/msc-coursework.md)
 - [Freelancing](port/freelancing.md)
 
-## Interests
-
-### TLDR
-- `|Interests>` =  `a*|code>` + `b*|math>` + `c*|compute> + d*|communication>`.
-
-### NLDR
-- Logic programming
-- Functional programming
-- Array programming
-
-- Numerical & Interval analysis
-- Graph theory & Network science
-- Mathematical logic
-
-- Distributed, parallel & concurrent computing
-- Golang and its applications to modern cloud infrastructure
-- API development, k8s, edge computing & embedded solutions.
+## Other
 
 - [Reading](https://www.goodreads.com/mlliarm) papers and books in the above topics.
 - [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
