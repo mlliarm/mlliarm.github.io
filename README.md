@@ -10,7 +10,7 @@
 
 # What
 
-- In this website you'll find my `portfolio`, my `interests` and how to `contact` me.
+- In this website you'll find my `portfolio`, my `other` interests and how to `contact` me.
 
 ## Portfolio
 
