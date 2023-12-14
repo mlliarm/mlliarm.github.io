@@ -4,7 +4,7 @@
 
 - A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
-- After working 3.5 years as a GCP Data Engineer and Apigee Solutions Engineer at Webhelp ES, now I'm working as a DevOps Cloud Engineer at  Schwarz IT Barcelona with technologies such as Kubernetes, Virtualization, golang and python.
+- I started out in the data field working as a python backend & ML engineer at a bioinformatics startup for 1.5 years. Later, I've worked 3.5 years as a GCP Data Engineer and Apigee Solutions Engineer at Webhelp ES, and now I'm working as a DevOps Cloud Engineer at  Schwarz IT Barcelona with technologies such as Kubernetes, Virtualization, golang and python. It's clear now that data and ops are becoming increasingly close, so a modern data engineer shouldn't be afraid touching a container or a k8s cluster, or interacting with an API with python or golang.
 
 - Inspired by Archimedes (Αρχιμήδης). Engineer by day but a mathematician at heart. Mathematics teach one how to pose the right questions. And this is a great skill for any engineer.
 
