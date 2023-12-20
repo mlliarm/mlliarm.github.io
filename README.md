@@ -1,4 +1,4 @@
-# Mi. Lia. - Cloud Eng. | Applied Math.
+# Mi. Lia. - Cloud Eng. && Applied Math.
 
 # Who
 
