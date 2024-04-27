@@ -1,8 +1,8 @@
-# Maths Code Data
+# Math Code Data
 
 # Who
 
-- A [maths](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
+- A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
 
 - I began my journey in the data realm as a Python backend & ML engineer at a bioinformatics startup. Following that, I spent a significant period of time working as a GCP Data and Apigee Solutions Engineer at Webhelp ES. Subsequently, I transitioned to a role as a DevOps Cloud Engineer at Schwarz IT, where I delved into technologies including Kubernetes, Virtualization, Golang, and Python. Currently, I am working as a Support Engineer at Elastic.
 
