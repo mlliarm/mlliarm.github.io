@@ -1,4 +1,4 @@
-# Math Code Data
+# Maths Code Data
 
 # Who
 
