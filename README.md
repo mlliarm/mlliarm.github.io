@@ -26,5 +26,5 @@
 
 ## Contact
 - [in](https://www.linkedin.com/in/mlliarm/)
-- *liarmakopoulosm* ΑΤ *acm* DΟΤ *org*
+- IRC/[Libera server](https://libera.chat/guides/connect): milia
 - <a href="https://mathstodon.xyz/@mlliarm" rel="me">Mathstodon</a>
