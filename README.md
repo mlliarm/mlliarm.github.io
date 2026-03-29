@@ -2,11 +2,7 @@
 
 # Who
 
-- A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate. My MSc thesis was an emperic study on Active Machine learning (AML), using JCLAL library and python3.
-
-- I began my journey in the data realm as a Python backend & ML engineer at a bioinformatics startup. Following that, I spent a significant period of time working as a GCP Data and Apigee Solutions Engineer at Webhelp ES. Subsequently, I transitioned to a role as a DevOps Cloud Engineer at Schwarz IT, where I delved into technologies including Kubernetes, Virtualization, Golang, and Python. Currently, I am working as a Support Engineer at Elastic.
-
-- Inspired by Archimedes (Αρχιμήδης). Engineer by day but a mathematician at heart. Mathematics teach one how to pose the right questions. And this is a great skill for any engineer.
+- A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate that works in tech. Currently a Support Engineer at Elastic.
 
 # What
 
@@ -14,6 +10,7 @@
 
 ## Portfolio
 
+- [Github](https://github.com/mlliarm)
 - [Projects](port/projects.md)
 - [MSc coursework](port/msc-coursework.md)
 - [Freelancing](port/freelancing.md)
@@ -22,7 +19,7 @@
 
 - [Reading](https://www.goodreads.com/mlliarm) technical papers and books.
 - [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
-- [Presenting](https://milia.dev/apl-in-bcn/) stuff I like to tech communities.
+- [Presenting](https://milia.dev/apl-in-bcn/) forgotten themes of the digital age.
 
 ## Contact
 - [in](https://www.linkedin.com/in/mlliarm/)
