@@ -1,10 +1,10 @@
 # Math Code Data
 
-# Who
+## Who
 
 - A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate that works in tech. Currently a Support Engineer at Elastic.
 
-# What
+## What
 
 - In this website you'll find my `portfolio`, my `other` interests and how to `contact` me.
 
