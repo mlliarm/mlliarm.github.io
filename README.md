@@ -22,7 +22,7 @@
 
 - [Reading](https://www.goodreads.com/mlliarm) technical papers and books.
 - [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
-- [Presenting](https://mlliarm.github.io/apl-in-bcn/) stuff I like to tech communities.
+- [Presenting](https://milia.dev/apl-in-bcn/) stuff I like to tech communities.
 
 ## Contact
 - [in](https://www.linkedin.com/in/mlliarm/)
