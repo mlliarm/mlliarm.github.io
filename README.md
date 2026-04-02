@@ -2,7 +2,8 @@
 
 ## Who
 
-- A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate that works in tech. Currently a Support Engineer at Elastic.
+- A [math](https://www.math.upatras.gr/en/) (MSc) and [physics](https://www.physics.uoc.gr/en) (BSc) graduate that works in tech. 
+- Currently a Support Engineer (L5) at [Elastic](https://elastic.co).
 
 ## What
 
@@ -13,7 +14,6 @@
 - [Github](https://github.com/mlliarm)
 - [Projects](port/projects.md)
 - [MSc coursework](port/msc-coursework.md)
-- [Freelancing](port/freelancing.md)
 
 ## Other
 
