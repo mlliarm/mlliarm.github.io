@@ -18,7 +18,7 @@
 ## Other
 
 - [Reading](https://www.goodreads.com/mlliarm) technical papers and books.
-- [Writing](https://gist.github.com/mlliarm/0b48f20f08e4912c65328789baf8c983) posts.
+- [Writing](https://milia.dev/blog) my thoughts down.
 - [Presenting](https://milia.dev/apl-in-bcn/) forgotten themes of the digital age.
 
 ## Contact
